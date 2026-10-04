@@ -1,0 +1,87 @@
+{
+  "levels": {
+    "critical_1_2": "Critical 1-2",
+    "struggling_3_4": "Struggling 3-4",
+    "balancing_5_7": "Balancing 5-7",
+    "thriving_8_10": "Thriving 8-10"
+  },
+  "domains": [
+    {
+      "domain": "Spiritual",
+      "critical_1_2": "Protect daily time for prayer, Scripture reflection, and spiritual accountability. Reduce activities that create spiritual exhaustion without clear fruit.",
+      "struggling_3_4": "Rebuild a consistent spiritual rhythm. Identify one practice to restore this month and one distraction to reduce.",
+      "balancing_5_7": "Strengthen consistency and depth. Keep healthy ministry boundaries so activity does not replace spiritual formation.",
+      "thriving_8_10": "Maintain the rhythm and mentor others without sacrificing your own spiritual health."
+    },
+    {
+      "domain": "Family",
+      "critical_1_2": "Give family relationships urgent protected time. Reduce avoidable meetings, travel, or commitments that repeatedly displace family responsibilities.",
+      "struggling_3_4": "Schedule recurring family time and address unresolved communication or role expectations.",
+      "balancing_5_7": "Improve quality and predictability of family time. Review whether work/ministry is taking more than intended.",
+      "thriving_8_10": "Preserve strong family habits and include family in major life planning."
+    },
+    {
+      "domain": "Health",
+      "critical_1_2": "Prioritize medical evaluation when appropriate, sleep, nutrition, movement, and recovery. Reduce nonessential late-night or high-stress commitments.",
+      "struggling_3_4": "Create a basic health routine with measurable sleep, activity, nutrition, and check-up goals.",
+      "balancing_5_7": "Increase consistency rather than intensity. Protect recovery days and monitor stress.",
+      "thriving_8_10": "Maintain current habits and use preventive health checks."
+    },
+    {
+      "domain": "Financial",
+      "critical_1_2": "Stabilize cash flow first: essential expenses, debt obligations, emergency needs, and income plan. Pause nonessential spending and risky commitments.",
+      "struggling_3_4": "Create a monthly budget, debt plan, savings target, and at least one realistic income-strengthening action.",
+      "balancing_5_7": "Improve saving rate, resilience, and financial controls. Separate personal, ministry, and organizational funds.",
+      "thriving_8_10": "Maintain reserves, diversify responsibly, and review long-term protection and investment goals."
+    },
+    {
+      "domain": "Intellectual",
+      "critical_1_2": "Reduce passive information intake and choose one structured learning path tied to your mission.",
+      "struggling_3_4": "Set a weekly study block, reading curriculum, and one applied learning project.",
+      "balancing_5_7": "Focus learning on skills with direct strategic value; document what you learn and apply it.",
+      "thriving_8_10": "Continue advanced study, writing, teaching, and knowledge transfer."
+    },
+    {
+      "domain": "Leadership",
+      "critical_1_2": "Reduce over-centralization. Clarify decisions that only you must make and delegate the rest with accountability.",
+      "struggling_3_4": "Strengthen delegation, meeting discipline, decision logs, and leadership development.",
+      "balancing_5_7": "Develop second-line leaders and standard operating systems so results do not depend on one person.",
+      "thriving_8_10": "Maintain succession, coaching, governance, and leadership pipeline systems."
+    },
+    {
+      "domain": "Ministry",
+      "critical_1_2": "Review overload, role confusion, and activities without clear discipline or mission outcomes. Stop or redesign low-fruit commitments.",
+      "struggling_3_4": "Clarify ministry priorities, discipleship pathway, and measurable outcomes.",
+      "balancing_5_7": "Balance teaching, equipping, sending, pastoral care, and leadership multiplication.",
+      "thriving_8_10": "Sustain healthy multiplication and protect theological, pastoral, and safeguarding quality."
+    },
+    {
+      "domain": "Organization",
+      "critical_1_2": "Stabilize governance, records, finance, compliance, roles, and core operations before launching more programs.",
+      "struggling_3_4": "Prioritize policies, database discipline, KPIs, delegation, and a realistic operating calendar.",
+      "balancing_5_7": "Improve systems integration, monitoring, documentation, and accountability.",
+      "thriving_8_10": "Scale carefully using standards, audits, succession, and evidence-based expansion."
+    },
+    {
+      "domain": "Community",
+      "critical_1_2": "Narrow the number of field commitments. Prioritize communities where needs, partners, resources, and measurable outcomes are clearest.",
+      "struggling_3_4": "Use assessment, stakeholder mapping, baseline data, and one defined intervention cycle.",
+      "balancing_5_7": "Strengthen community ownership, feedback, monitoring, and local leadership.",
+      "thriving_8_10": "Document impact, replicate proven models, and build sustainable local partnerships."
+    },
+    {
+      "domain": "National Contribution",
+      "critical_1_2": "Avoid spreading effort across too many national-level initiatives. Select one or two policy/development contributions with evidence and institutional fit.",
+      "struggling_3_4": "Build credible documentation, partnerships, and measurable national relevance.",
+      "balancing_5_7": "Connect field evidence to policy, networks, and scalable program models.",
+      "thriving_8_10": "Maintain strategic national engagement backed by evidence, governance, and results."
+    },
+    {
+      "domain": "International Engagement",
+      "critical_1_2": "Do not pursue international visibility at the expense of local capacity, finances, or core mission. Focus on credible, mission-aligned relationships.",
+      "struggling_3_4": "Strengthen institutional profile, documentation, compliance, and a small number of relevant international partnerships.",
+      "balancing_5_7": "Convert relationships into defined learning, technical assistance, grants, or program collaboration.",
+      "thriving_8_10": "Maintain high-value partnerships and document international outcomes and reciprocity."
+    }
+  ]
+}

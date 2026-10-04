@@ -1,0 +1,41 @@
+name: area_incident_tracker
+description: Area Incident Tracker - Database (Flutter desktop client for Windows)
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.2
+  shared_preferences: ^2.3.2
+  window_manager: ^0.4.2
+  flutter_svg: ^2.0.10+1
+  flutter_map: ^7.0.2
+  flutter_map_marker_cluster: ^1.4.0
+  latlong2: ^0.9.1
+  pdf: ^3.11.1
+  printing: ^5.13.2
+  file_selector: ^1.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/web_icon.png
+    - assets/fonts/
+    - assets/domain_assessment_framework.json
+  fonts:
+    # Used only for the PDF report (Unicode-safe). The UI itself uses Arial,
+    # exactly like the website's final stylesheet.
+    - family: ReportSans
+      fonts:
+        - asset: assets/fonts/Inter-Regular.ttf
+        - asset: assets/fonts/Inter-Bold.ttf
+          weight: 700
